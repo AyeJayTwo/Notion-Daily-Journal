@@ -15,10 +15,7 @@ This is also an opportunity for me to better understand and test REST APIs (firs
 This program posts to the Notion API to create the pages in each database, and then uses the responses to link them all together in my metaJournal. Should save me precious seconds in the morning
 
 #TODO
-- fix casing for variables (move all to [snake case](https://www.theserverside.com/answer/Camel-case-vs-snake-case-Whats-the-difference))
 - Migrate some of the repeated items to methods
     - Create page method
     - Check page method
-- also use [strftime](https://strftime.org/) on line 18
-- Go back and make items single line (date formatting)
 - Better way to check if meta page has been created already, instead of relying on len(results)
