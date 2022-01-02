@@ -14,7 +14,7 @@ This is also an opportunity for me to better understand and test REST APIs (firs
 # Solution
 This program posts to the Notion API to create the pages in each database, and then uses the responses to link them all together in my metaJournal. Should save me precious seconds in the morning
 
-#TODO
+# TODO
 - Migrate some of the repeated items to methods
     - Create page method
     - Check page method
